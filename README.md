@@ -77,6 +77,7 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Statsmodels-003366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -96,6 +97,7 @@
 
 | Project | Stack | Architecture & Key Quantitative Findings |
 |---|---|---|
+| [**`mighty-minds-ai-career-vr`**](https://github.com/dmcintosh5/mighty-minds-ai-career-vr) &bull; [*(Devpost)*](https://devpost.com/software/mighty-minds-hack-a-thon) | `AWS Lambda`, `Bedrock Nova Lite`, `Polly`, `Unity 6 / C#`, `Meta Quest` | 24-Hour AI for Good Hackathon project built with **Travelers**, **Usher's New Look**, and **AWS**. Coupled Meta Quest VR with serverless AWS Lambda, Bedrock Nova Lite, Polly neural voice synthesis, and S3 to guide youth through interactive career discovery, establishing last-mile adoption insights for omnichannel AI delivery. [*(Devpost Submission)*](https://devpost.com/software/mighty-minds-hack-a-thon) |
 | [**`riverview-admissions-pipeline`**](https://github.com/dmcintosh5/riverview-admissions-pipeline) | `FastAPI`, `pgvector`, `PostgreSQL`, `Next.js 14` | Asynchronous admissions dossier processing pipeline with manifest validation gates, dual relational/vector storage (`pgvector`), LangChain summarizing agent, and Next.js review chat UI. |
 | [**`transformer-distilbert-ordinal-rating`**](https://github.com/dmcintosh5/transformer-distilbert-ordinal-rating) | `PyTorch`, `Transformers`, `DistilBERT` | Fine-tuned DistilBERT on 50,000 unlabeled IMDB movie reviews to infer 1–5 star ordinal sentiment ratings when only binary ground truth exists, featuring 7-step EDA, ordinal loss modeling, and Quadratic Weighted Kappa evaluation. |
 
